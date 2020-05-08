@@ -39,5 +39,5 @@ namespace CatalogLevelWF_MVP.Domens
 
             return child.ToArray();
         }
-    }    
+    }
 }

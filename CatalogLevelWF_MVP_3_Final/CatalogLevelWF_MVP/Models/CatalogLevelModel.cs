@@ -10,7 +10,7 @@ namespace CatalogLevelWF_MVP.Models
     {
         List<Catalog_Level> ICatalogLevelModel.Load_Catalog_Levels()
         {
-            using(var connect = new CatalogLevel_WFContainer())
+            using (var connect = new CatalogLevel_WFContainer())
             {
                 var res = connect.Catalog_Level.ToList();
 

@@ -10,7 +10,7 @@ using CatalogLevelWF_MVP.Domens;
 
 namespace CatalogLevelWF_MVP.Presenters
 {
-    public class CatalogLevelPresenter 
+    public class CatalogLevelPresenter
     {
         private readonly ICatalogLevelView view;
 
@@ -30,6 +30,6 @@ namespace CatalogLevelWF_MVP.Presenters
             var catalogLevels = model.Load_Catalog_Levels();
             var treeNodes = domen.AddTreeNodes(catalogLevels);
             view.SetTreeNodes(treeNodes);
-        }   
+        }
     }
 }

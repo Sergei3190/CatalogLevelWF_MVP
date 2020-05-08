@@ -1,0 +1,15 @@
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\bin\Debug\CatalogLevelWF_MVP.exe.config
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\bin\Debug\CatalogLevelWF_MVP.exe
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\bin\Debug\CatalogLevelWF_MVP.pdb
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\bin\Debug\EntityFramework.dll
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\bin\Debug\EntityFramework.SqlServer.dll
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\bin\Debug\EntityFramework.xml
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\bin\Debug\EntityFramework.SqlServer.xml
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\obj\Debug\CatalogLevelWF_MVP.csprojAssemblyReference.cache
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\obj\Debug\CatalogLevelWF_MVP.Form1.resources
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\obj\Debug\CatalogLevelWF_MVP.Properties.Resources.resources
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\obj\Debug\CatalogLevelWF_MVP.csproj.GenerateResource.cache
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\obj\Debug\CatalogLevelWF_MVP.csproj.CoreCompileInputs.cache
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\obj\Debug\CatalogLevelWF_MVP.csproj.CopyComplete
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\obj\Debug\CatalogLevelWF_MVP.exe
+E:\Портфолио\CatalogLevelWF_MVP\CatalogLevelWF_MVP_3_Final\CatalogLevelWF_MVP\obj\Debug\CatalogLevelWF_MVP.pdb
